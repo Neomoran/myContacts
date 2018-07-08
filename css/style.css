@@ -1,0 +1,49 @@
+body{
+	background-color:rgb(200,150,50);
+	height: 100vh;
+
+}
+
+.list-group{
+	width: 350px;
+	list-style-type: none;
+
+}
+.list-group h5{
+	margin-left: 30px;
+}
+.list-group li{
+	background-color: transparent;
+}
+.list-group li a{
+	color: #000;
+	font-family: ink free;
+	font-weight: bold;
+}
+#ui{
+	display: flex;
+	justify-content: center;
+	
+
+}
+.the-app{
+	align-items: center;
+	background-color:rgb(300,100,40);
+	margin-top: 20px;
+	border:1px #000 solid;
+	border-radius: 8px;
+
+
+}
+.the-app h2{
+	font-family:sans-serif;
+	font-weight: bold;
+	padding-top: 4px;
+}
+input{
+	padding-left:9px;
+	margin-left: 10px;
+	width: 320px;
+	font-family: ink free;
+	font-weight: bold;
+}
