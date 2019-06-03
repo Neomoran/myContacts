@@ -1,7 +1,5 @@
-//alert('hey');
-
 //get the search input element
-let searchme=document.getElementById('search');
+let searchme = document.getElementById('search');
 //add event listener keyup for typing
 searchme.addEventListener('keyup',searchNames);
 
